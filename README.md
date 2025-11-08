@@ -59,6 +59,11 @@ Strong balance between accuracy and speed
 <img width="505" height="470" alt="mbnet-1" src="https://github.com/user-attachments/assets/e8d0ee4f-764e-4dac-97b1-be6c2bb51126" />
 <img width="505" height="470" alt="efficient-1 1" src="https://github.com/user-attachments/assets/ef876a99-0b05-46ed-b76f-09accc7c05f4" />
 
+
+**Final Accuracy Graph**
+<img width="336" height="252" alt="image" src="https://github.com/user-attachments/assets/f7ffbbb5-d23a-411e-9574-6a04f8164117" />
+
+
 **Technologies Used**
 Python
 TensorFlow / Keras
