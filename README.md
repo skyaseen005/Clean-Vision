@@ -6,7 +6,7 @@ The model classifies waste into Organic and Recyclable categories using modern C
 
 **Dataset**
 
-Source: Waste Classification Data (Kaggle)
+Source:[ Waste Classification Data (Kaggle)](https://www.kaggle.com/datasets/techsash/waste-classification-data)
 Total Images: 22,000+
 Categories: Organic, Recyclable
 
