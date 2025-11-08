@@ -60,8 +60,9 @@ Strong balance between accuracy and speed
 <img width="505" height="470" alt="efficient-1 1" src="https://github.com/user-attachments/assets/ef876a99-0b05-46ed-b76f-09accc7c05f4" />
 
 
-**Final Accuracy Graph**
+
 <img width="336" height="252" alt="image" src="https://github.com/user-attachments/assets/f7ffbbb5-d23a-411e-9574-6a04f8164117" />
+**Final Accuracy Graph**
 
 
 **Technologies Used**
